@@ -1,4 +1,8 @@
 # training-repo
 dmytro-ndp 
 wellsideee 
-OleksandrSahun 
+Shakalov111 
+Anna_Hana25
+fedorenkobmx
+vorobiova2005
+OleksandrSahun
