@@ -1,6 +1,2 @@
-HEAD
-main branch: changed 
-
-main branch 
-feature branch 
-a54b0a2 (Feature change Aksaly.txt)
+main branch: changed
+feature branch
