@@ -1,6 +1,5 @@
 # training-repo
 dmytro-ndp 
-main
 yoongiia 
 wellsideee 
 Shakalov111 
@@ -11,4 +10,3 @@ OleksandrSahun
 github_OleksiiIshchuk VollodinGleb
 IdrisFalcor 
 yaroslav-na
-main
